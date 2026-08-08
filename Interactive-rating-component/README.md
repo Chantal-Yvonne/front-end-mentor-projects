@@ -13,7 +13,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -84,7 +83,6 @@ For future projects, I want to continue improving my JavaScript logic and become
 ### Useful resources
 
 - MDN Web Docs - Used as a reference for HTML, CSS and JavaScript concepts.
-
 
 ## Author
 
