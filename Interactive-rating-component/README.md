@@ -37,7 +37,7 @@ Users should be able to:
 
 #### Mobile
 
-![Mobile screenshot](./assets/design/interactive-rating-component-mobile.jpeg)
+<img src="./assets/design/mobile.png" alt="Mobile screenshot" width="300">
 
 ### Links
 
