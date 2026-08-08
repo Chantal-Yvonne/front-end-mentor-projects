@@ -1,11 +1,11 @@
-name: Deploy Interactive Rating Component
+name: Deploy Frontend Mentor Projects
 
 on:
   push:
     branches:
       - main
     paths:
-      - "Interactive-rating-component/**"
+      - "**"
       - ".github/workflows/deploy-rating.yml"
 
 permissions:
@@ -28,10 +28,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload Interactive Rating Component
+      - name: Upload projects
         uses: actions/upload-pages-artifact@v4
         with:
-          path: "./Interactive-rating-component"
+          path: "."
 
       - name: Deploy to GitHub Pages
         id: deployment
