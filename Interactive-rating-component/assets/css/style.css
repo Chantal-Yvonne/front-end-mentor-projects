@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+:root {
+    --clr-primary: #fb7413;
+    --clr-white:#ffffff;
+    --clr-grey-500: #959eac;
+    --clr-grey-900: #252d37;
+    --clr-grey-950: #121417;
+
+}
+
+/* General styles */
+body {
+    font-family: Overpass;
+    font-size: 15px;
+    background-color: black;
+    color: var(--clr-grey-500);
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+h2 {
+color: var(--clr-white);
+margin-bottom: 10px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1440px;
+}
+
+.card-container {
+    background-color: var(--clr-grey-950);
+    width: 400px;
+    max-width: 90%;
+    padding: 2rem;
+    line-height: 1.6;
+    border-radius: 30px;
+    font-weight: 500;
+    margin: 0 auto;
+}
+
+/* Rating card component */
+.rating-card img {
+    background-color: var(--clr-grey-900);
+    padding: 0.5rem;
+    border-radius: 100%;
+    margin-bottom: 1rem;
+    max-width: 100%;
+    height: auto;
+}
+
+.rating {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rating li {
+    background-color: var(--clr-grey-900);
+    padding: 0.8rem;
+    text-align: center;
+    border-radius: 100%;
+    width: 45px;
+    height: 45px;
+    font-weight: 500;
+    margin: 25px 0 30px;
+
+}
+
+.rating li:hover {
+    background-color: var(--clr-white);
+    color: var(--clr-grey-950);
+    font-weight: 500;
+}
+
+#rating-btn {
+    width: 100%;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    border: none;
+    background-color: var(--clr-primary);
+    color: var(--clr-grey-950);
+    font-weight: 500;
+}
+
+#rating-btn:hover {
+    background-color: var(--clr-white);
+    font-weight: 500;
+
+}
+
+.rating li.selected {
+    background-color: var(--clr-primary);
+    color: var(--clr-grey-950);
+}
+
+/* Thank you card component */
+.thank-you-card {
+    text-align: center;
+}
+
+.thank-you-card .card-container p:first-of-type {
+    color: var(--clr-primary);
+    background-color: var(--clr-grey-900);
+    border-radius: 15px;
+    margin: 20px auto;
+    padding: 5px;
+    width: 58%;
+}
+
+
+.hidden {
+    display: none;
+}
+
+
+
+/*================ MEDIA QUERY =============== */
+
+/* TABLETS */
+@media (max-width: 1024px) {
+ 
+  .container {
+    width: 100%;
+    padding: 15px;
+  }
+
+
+}
+
+/* MOBILE */
+@media (max-width: 600px) {
+ 
+  .container {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .thank-you-card .card-container p:first-of-type {
+    width: 70%;
+}
+
+}
