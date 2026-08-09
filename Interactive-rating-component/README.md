@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Chantal-Yvonne/front-end-mentor-projects/tree/main/Interactive-rating-component](https://github.com/Chantal-Yvonne/front-end-mentor-projects/tree/main/Interactive-rating-component)
 - Live Site URL: [https://chantal-yvonne.github.io/front-end-mentor-projects/Interactive-rating-component/](https://chantal-yvonne.github.io/front-end-mentor-projects/Interactive-rating-component/)
 
 ## My process
