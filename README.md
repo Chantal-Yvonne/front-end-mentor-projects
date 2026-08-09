@@ -8,7 +8,7 @@ These projects give me practical experience with **HTML, CSS, responsive design,
 
 | #  | Project                          | Technologies          | Live Demo                                                                                             | Source                                         |
 | -- | -------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 01 | **Interactive Rating Component** | HTML, CSS, JavaScript | [Live Demo](https://chantal-yvonne.github.io/front-end-mentor-projects/Interactive-rating-component/) | [Source Code](./Interactive-rating-component/) |
+| 01 | **Interactive Rating Component** | [Live Demo](https://chantal-yvonne.github.io/front-end-mentor-projects/Interactive-rating-component/) | [Source Code](./Interactive-rating-component/) |
 
 ## About This Repository
 
@@ -45,11 +45,6 @@ front-end-mentor-projects/
 ├── README.md
 └── .gitignore
 ```
-
-## Progress
-
-* [x] Interactive Rating Component
-
 
 ## Author
 
