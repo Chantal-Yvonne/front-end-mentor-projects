@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://chantal-yvonne.github.io/front-end-mentor-projects/Interactive-rating-component/](https://chantal-yvonne.github.io/front-end-mentor-projects/Interactive-rating-component/)
 
 ## My process
 
