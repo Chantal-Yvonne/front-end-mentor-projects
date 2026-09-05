@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Chantal-Yvonne/front-end-mentor-projects/tree/main/Interactive-rating-component](https://github.com/Chantal-Yvonne/front-end-mentor-projects/tree/main/Interactive-rating-component)
-- Live Site URL: [https://chantal-yvonne.github.io/front-end-mentor-projects/Interactive-rating-component/](https://chantal-yvonne.github.io/front-end-mentor-projects/Interactive-rating-component/)
+- Solution URL: [https://github.com/Chantal-Yvonne/front-end-mentor-projects/tree/main/four-card-feature-section](https://github.com/Chantal-Yvonne/front-end-mentor-projects/tree/main/four-card-feature-section)
+- Live Site URL: [https://chantal-yvonne.github.io/front-end-mentor-projects/four-card-feature-section/](https://chantal-yvonne.github.io/front-end-mentor-projects/four-card-feature-section/)
 
 ## My process
 
